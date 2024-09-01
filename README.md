@@ -1,4 +1,4 @@
-# Minecraft-Tutor-Mod(1.18-Fabric)
+# Minecraft-Tutorial-Mod(1.18-Fabric)
 我的世界Mod制作教程,视频看完上传...
 
 ## --------类型-------------
