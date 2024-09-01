@@ -1,4 +1,4 @@
-# Minecraft-Tutor-Mod(1.18)
+# Minecraft-Tutor-Mod(1.18-Fabric)
 我的世界教程  
 
 ## --------类型-------------
@@ -20,4 +20,4 @@
 |树的世界生成|自定义生物群系|  
 
 ## 鸣谢
-感谢BeiShan[https://github.com/BeiShanair/tutorialmod-1.20/tree/%235-recipes] 提供的教程(1.20)
+感谢[BeiShan](https://github.com/BeiShanair/tutorialmod-1.20/tree/%235-recipes) 提供的教程(1.20-Fabric)
