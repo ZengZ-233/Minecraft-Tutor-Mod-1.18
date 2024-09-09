@@ -19,5 +19,10 @@
 |自定义木头|自定义树|  
 |树的世界生成|自定义生物群系|  
 
+
+## 需要修改的地方
+`注` 前面也有一些是改动了,改动地方比较少,之前没有记录。  
+`探矿器` 1.18.2不使用**Text.literal**而是**Text.of()** 方法来创建文本消息。  
+
 ## 鸣谢
 感谢[BeiShan](https://github.com/BeiShanair/tutorialmod-1.20/tree/%235-recipes) 提供的教程(1.20-Fabric)
